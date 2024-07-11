@@ -1,5 +1,5 @@
-# HQ9++
-The addition to HQ9+ with some new things! And get the pun? HQ9++ the HQ9+ C++ thingie!
+# HQ9-
+The addition to HQ9+ with some new things!
 It's an esoteric programming language. It's an addition of the HQ9+ programming language. Here's how HQ9+ works:
 - Input "h" in it to output "Hello World!"
 - Input "q" in it to output "Q"
