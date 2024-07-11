@@ -3,7 +3,7 @@ import os
 import random
 
 os.system('cls')
-print("HQ9++ - The Ultimate Dumbest Programming Language Ever Based Off HQ9+")
+print("HQ9- - The Ultimate Dumbest Programming Language Ever Based Off HQ9+")
 print("Also use \"help\" for very useful information")
 time.sleep(4)
 os.system('cls')
